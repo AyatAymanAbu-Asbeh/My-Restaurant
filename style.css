@@ -1,9 +1,12 @@
+ my-restaurant-style
 
 
 *{
 
     background-color: #D6E8DB;
 }
+=======
+ main
 .cards-list{
     width:100%;
     display:flex;
@@ -33,4 +36,8 @@ width: inherit;
 height: inherit;
 border-radius: 40px;
 object-fit: cover;
+ my-restaurant-style
 }
+=======
+}
+ main
